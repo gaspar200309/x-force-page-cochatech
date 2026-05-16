@@ -170,7 +170,7 @@ function App() {
             <Component />
           </Slide>
         ))}
-
+{/* coment */}
         <footer className="snap-start relative z-10 flex min-h-[32vh] flex-col items-center justify-center border-t border-white/10 bg-black/80 px-6 text-center">
           <p className="text-sm uppercase tracking-[0.35em] text-cyan-200/60">Cochatech</p>
           <p className="mt-3 text-gray-500">© 2025 Cochatech | Equipo X-Force</p>
